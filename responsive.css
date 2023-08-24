@@ -1,0 +1,156 @@
+@media only screen and (max-width: 1400px) {
+    .header-content-row {
+        padding-left: 3rem;
+        padding-top: 13rem;
+    }
+
+    .text-animation-row .image .header {
+        left: 10%;
+        
+    }
+
+    .image-div-row h3 {
+        font-size: 19px;
+    }
+
+    .footer-row {
+        padding: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 995px) {
+    .image-div-row .image-right-div {
+        height: 80vh;
+    }
+
+    .image-div-row .image-left-div {
+        width: 40%;
+        height: 80vh;
+        background: url("image/img-one.jpg") no-repeat center / cover;
+    }
+
+    .image-div-row .image-left-div h3 {
+        padding: 3.5rem 1rem 0 10rem;
+    }
+
+    .text-animation-row .image .header h2 {
+        font-size: 55px;
+    }
+
+    .text-animation-section .animate-row h2 {
+        font-size: 220px;
+    }
+
+    .header-one h4:nth-child(1) {
+        font-size: 35px;
+        margin-bottom: 2rem;
+    }
+
+    .header-one h4:nth-child(2) {
+        font-size: 20px;
+        margin-bottom: 4rem;
+    }
+
+    .footer-container {
+        height: 90vh;
+    }
+}
+
+
+@media only screen and (max-width: 810px) {
+    .header-menu .left span:nth-child(1) {
+        display: block;
+    }
+
+    .header-menu .left span:nth-child(2) {
+        padding: 0 0 0.3rem 0rem;
+    }
+
+    .header-content-row .img-one img {
+        width: 400px;
+    }
+
+    .header-content-row {
+        padding-left: 0rem;
+        padding-top: 17rem;
+    }
+
+    .header-content-row {
+        background: url("image/mi-bg-one.jpg") no-repeat 80%/ cover;
+        position: relative;
+        padding-left: 10rem;
+        padding-top: 57rem;
+    }
+
+    .short-section {
+        height: 65vh;
+    }
+
+    .short-row p {
+        font-size: 23px;
+        padding-top: 12rem;
+    }
+
+    .image-div-row .image-left-div h3 {
+        padding: 3.5rem 1rem 0rem 2rem;
+
+    }
+
+    .image-div-row h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .text-animation-row .image .header h2 {
+        font-size: 40px;
+    }
+
+    .text-animation-row .image .header {
+        left: 5%;
+    }
+
+    .text-animation-section .animate-row h2 {
+        font-size: 150px;
+    }
+
+    .header-one h4:nth-child(1) {
+        font-size: 28px;
+    }
+
+    .header-one h4:nth-child(2) {
+        font-size: 16px;
+    }
+
+    .col-three {
+        padding-left: 2rem;
+    }
+
+    .footer-container {
+        height: 68vh;
+    }
+
+
+
+@media only screen and (max-width: 1000px) {
+
+    .nav-container span i {
+        display: block;
+    }
+
+    .nav-container li {
+        display: none;
+    }
+
+
+
+    .col-four span:nth-child(4) {
+        display: none;
+    }
+
+    .input-field i {
+        display: none;
+    }
+
+
+}
+
