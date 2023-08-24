@@ -54,6 +54,14 @@
     .footer-container {
         height: 90vh;
     }
+
+    .nav-container span i {
+        display: block;
+    }
+
+    .nav-container li {
+        display: none;
+    }
 }
 
 
@@ -127,6 +135,14 @@
 
     .footer-container {
         height: 68vh;
+    }
+
+    .nav-container span i {
+        display: block;
+    }
+
+    .nav-container li {
+        display: none;
     }
 
 
